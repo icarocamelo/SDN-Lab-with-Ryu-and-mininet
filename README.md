@@ -1,4 +1,4 @@
-# Ryu-SDN-Labs - SDN Labs with Ryu and mininet
+# SDN Labs with Ryu and mininet
 
 Ryu directory: cd /home/vagrant/ryu/bin
 
